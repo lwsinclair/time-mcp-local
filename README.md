@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/conechoai-time-mcp-local-badge.png)](https://mseep.ai/app/conechoai-time-mcp-local)
+
 # Time MCP Server
 
 A Model Context Protocol server that provides time and timezone conversion capabilities. This server enables LLMs to get current time information and perform timezone conversions using IANA timezone names, with automatic system timezone detection.
